@@ -36,6 +36,7 @@ Tech I like. Practices I follow. Badges I didn’t earn at Scout Camp:
 ![Platform Thinking](https://img.shields.io/badge/Mindset-Platform%20Thinking-brightgreen)
 ![Works Well With PRs](https://img.shields.io/badge/Collaboration-Works%20Well%20With%20PRs-blueviolet)
 ![Editor: vi](https://img.shields.io/badge/Editor-vi-blue)
+![Tomatoes: Gladiator](https://img.shields.io/badge/Tomatoes-Gladiator-red)
 
 ---
 
